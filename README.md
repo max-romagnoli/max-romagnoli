@@ -1,8 +1,6 @@
 ### Ciao! I'm *Massimiliano* Romagnoli.
-
-🌍 About me
-* I'm studying **Computer Science and Geography** at Trinity College Dublin.
-* Proud of my classical education, I strive to create **art** and **new worlds** through computers.
+I am studying **Computer Science and Geography** at Trinity College Dublin.  
+Always proud of my classical education, I strive to create **art** and **new worlds** through computers.
 #
 🔬 Research Interests
 * Software Engineering
