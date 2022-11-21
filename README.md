@@ -1,5 +1,5 @@
-### Ciao! I'm Massimiliano Romagnoli.
-#
+### Ciao! I'm *Massimiliano Romagnoli*.
+
 🌍 About me
 * I'm studying **Computer Science and Geography** at Trinity College Dublin.
 * Proud of my classical education, I strive to create **art** and **new worlds** through computers.
