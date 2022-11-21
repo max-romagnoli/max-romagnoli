@@ -11,7 +11,7 @@ Always proud of my classical education, I strive to create **art** and **new wor
 🌱 Personal Interests
 * Game Development
 * Sound Design and Music Production
-* Classics! Including Philosophy and Literature.
+* Classics! Including Philosophy and Literature
 * The works of J.R.R. Tolkien
 #
 🏢 Stack
@@ -21,11 +21,11 @@ Always proud of my classical education, I strive to create **art** and **new wor
 * MySQL/PHP
 #
 💡 Projects
-* Co-founder of **Quaestio** a magazine publishing and reviewing philosophical papers.
+* Co-founder of **Quaestio** a magazine publishing and reviewing philosophical papers
 #
 ✍ Publications
-* *One step from the Other* (*A un passo dall'Altro*), in [*Quaderni della Ricerca 2021*](https://www.loescher.it/dettaglio/opera/O_3880/57--Affetti-e-legami--Forme-della-comunit--).
-* *One word, one world: Tolkien's secret vice*, in [*Quaderni della Ricerca 2020*](https://www.loescher.it/dettaglio/opera/O_3869).
+* *One step from the Other* (*A un passo dall'Altro*), in [*Quaderni della Ricerca 2021*](https://www.loescher.it/dettaglio/opera/O_3880/57--Affetti-e-legami--Forme-della-comunit--)
+* *One word, one world: Tolkien's secret vice*, in [*Quaderni della Ricerca 2020*](https://www.loescher.it/dettaglio/opera/O_3869)
 #
 📧 Contacts
 * [Email](mailto:maxxromagnoli@gmail.com)
