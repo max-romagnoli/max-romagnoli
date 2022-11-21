@@ -12,7 +12,7 @@ Always proud of my classical education, I strive to create **art** and **new wor
 * Game Development
 * Sound Design and Music Production
 * Classics! Including Philosophy and Literature.
-* The works of Tolkien
+* The works of J.R.R. Tolkien
 #
 🏢 Stack
 * Java
