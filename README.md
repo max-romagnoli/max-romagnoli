@@ -16,8 +16,8 @@ Always proud of my classical education, I strive to create **art** and **new wor
 #
 🏢 Stack
 * Java
-* C++
-* JavaScript/CSS [D3.js]
+* C++ [+ Qt]
+* JavaScript/CSS [+ D3.js]
 * MySQL/PHP
 #
 💡 Projects
