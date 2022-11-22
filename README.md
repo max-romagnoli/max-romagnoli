@@ -31,3 +31,5 @@ Always proud of my classical education, I strive to create **art** and **new wor
 * [Email](mailto:maxxromagnoli@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/max-romagnoli-dublin/)
 * [Discord](discordapp.com/users/315804417171521536)
+#
+[![My stats](https://github-readme-stats.vercel.app/api?username=max-romagnoli)](https://github.com/anuraghazra/github-readme-stats)
