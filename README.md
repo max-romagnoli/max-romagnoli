@@ -6,7 +6,7 @@ Always proud of my classical education, I strive to create **art** and **new wor
 * Software Engineering
 * Geographic Information Systems
 * Natural Language Processing
-* Epistemology
+* Epistemology and Hermeneutics
 #
 🌱 Personal Interests
 * Game Development
