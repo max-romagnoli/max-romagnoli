@@ -9,6 +9,7 @@ Always proud of my classical education, I strive to create **art** and **new wor
 * Epistemology and Hermeneutics
 #
 🌱 Personal Interests
+* Web Development
 * Game Development
 * Sound Design and Music Production
 * Classics! Including Philosophy and Literature
