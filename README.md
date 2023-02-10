@@ -2,6 +2,11 @@
 I am studying **Computer Science and Geography** at Trinity College Dublin.  
 Always proud of my classical education, I strive to create **art** and **new worlds** through computers.
 #
+💡 Current Projects
+* Working for Propylon Ireland on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs.
+* Writing a book-essay on a *new methodology* for human sciences. Stay tuned!
+* Co-founder of **Quaestio** a magazine publishing and reviewing philosophical papers.
+#
 🔬 Research Interests
 * Software Engineering
 * Geographic Information Systems
@@ -17,12 +22,9 @@ Always proud of my classical education, I strive to create **art** and **new wor
 #
 🏢 Stack
 * Java
-* C++
 * JavaScript/CSS [React.js, D3.js]
+* C++
 * MySQL/PHP
-#
-💡 Projects
-* Co-founder of **Quaestio** a magazine publishing and reviewing philosophical papers
 #
 ✍ Publications
 * *One step from the Other* (*A un passo dall'Altro*), in [*Quaderni della Ricerca 2021*](https://www.loescher.it/dettaglio/opera/O_3880/57--Affetti-e-legami--Forme-della-comunit--)
