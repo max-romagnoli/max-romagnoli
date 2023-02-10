@@ -3,7 +3,7 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 Always proud of my classical education, I strive to create **art** and **new worlds** through computers.
 #
 💡 Current Projects
-* Working for Propylon Ireland on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs.
+* Working on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs. This is a school project in collaboration with Propylon Ireland.
 * Writing a book-essay on a *new methodology* for human sciences. Stay tuned!
 * Co-founder of **Quaestio** a magazine publishing and reviewing philosophical papers.
 #
