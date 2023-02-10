@@ -1,6 +1,5 @@
 ### Ciao! I'm *Massimiliano* Romagnoli.
 I am studying **Computer Science and Geography** at Trinity College Dublin.  
-Always proud of my classical education, I strive to create **art** and **new worlds** through computers.
 #
 💡 Current Projects
 * Working on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs. This is a school project in collaboration with Propylon Ireland.
