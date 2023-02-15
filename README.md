@@ -34,4 +34,4 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 * [LinkedIn](https://www.linkedin.com/in/max-romagnoli-dublin/)
 * [Discord](discordapp.com/users/315804417171521536)
 #
-[![My stats](https://github-readme-stats.vercel.app/api?username=max-romagnoli&count_private=true&show_icons=true&theme=noctis_minimus&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=[max-romagnoli]&count_private=true&show_icons=true&theme=noctis_minimus&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
