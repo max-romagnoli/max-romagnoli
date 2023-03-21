@@ -9,12 +9,10 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 🔬 Research Interests
 * Software Engineering
 * Geographic Information Systems
-* Natural Language Processing
 * Epistemology and Hermeneutics
 #
 🌱 Personal Interests
 * Web Development
-* Game Development
 * Sound Design and Music Production
 * Classics! Including Philosophy and Literature
 * The works of J.R.R. Tolkien
