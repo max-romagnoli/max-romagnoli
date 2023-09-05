@@ -9,6 +9,7 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 🔬 Research Interests
 * Software Engineering
 * Geographic Information Systems
+* Digital arts
 * Epistemology and Hermeneutics
 #
 🌱 Personal Interests
