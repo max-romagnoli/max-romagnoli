@@ -1,10 +1,10 @@
 ### Ciao! I'm *Massimiliano* Romagnoli.
 I am studying **Computer Science and Geography** at Trinity College Dublin.  
 #
-💡 Current Projects
-* Working on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs. This is a school project in collaboration with Propylon Ireland.
+💡 Projects
+* Currently working on a large scale project aimed at remodelling in 3D (using UE5/Blender/MD) famous portraiture for educational purposes.
+* Worked on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs. This is a school project in collaboration with Propylon Ireland.
 * Writing a book-essay on a *new methodology* for human sciences. Stay tuned!
-* Co-founder of **Quaestio** a magazine publishing and reviewing philosophical papers.
 #
 🔬 Research Interests
 * Software Engineering
@@ -20,6 +20,7 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 🏢 Stack
 * Java
 * JavaScript/CSS [React.js, D3.js]
+* Blender/UE5/MD
 * C++
 * MySQL/PHP
 #
