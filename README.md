@@ -19,8 +19,9 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 * The works of J.R.R. Tolkien
 #
 🏢 Stack
-* Java
+* Java [SpringBoot]
 * JavaScript/CSS [React.js, D3.js]
+* Python [Flask]
 * Blender/UE5/MD
 * C++
 * MySQL/PHP
