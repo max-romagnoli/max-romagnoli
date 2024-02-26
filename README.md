@@ -23,6 +23,7 @@ I am studying **Computer Science and Geography** at Trinity College Dublin.
 * Java [SpringBoot]
 * JavaScript/CSS [React.js, D3.js]
 * Python [Flask]
+* ArcGIS
 * Blender/UE5/MD
 * C++
 * MySQL/PHP
