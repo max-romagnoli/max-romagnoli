@@ -1,5 +1,5 @@
 ### Ciao! I'm *Massimiliano* Romagnoli.
-I am studying **Computer Science and Geography** at Trinity College Dublin.  
+I study **Computer Science and Geography** at Trinity College Dublin and work as a **Geospatial Engineer Intern** at the Office of Public Works.  
 #
 💡 Projects
 * Currently working on a large scale project aimed at remodelling in 3D famous portraiture for educational purposes (this is done using UE5/Blender/MD).
