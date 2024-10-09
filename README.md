@@ -17,19 +17,19 @@ I study **Computer Science and Geography** at Trinity College Dublin and work as
 * Epistemology and Hermeneutics
 #
 🌱 Personal Interests
-* Web Development
+* Hiking!!
 * Sound Design and Music Production
 * Classics! Including Philosophy and Literature
 * The works of J.R.R. Tolkien
 #
 🏢 Stack
+* Python [Django, Flask]
+* PostgreSQL, PostGIS
+* QGIS
 * Java [SpringBoot]
-* JavaScript/CSS [React.js, D3.js]
-* Python [Flask]
-* ArcGIS
+* C++ [Qt, OpenGL]
+* JavaScript/CSS [React.js]
 * Blender/UE5/MD
-* C++
-* MySQL/PHP
 #
 ✍ Publications
 * *One step from the Other* (*A un passo dall'Altro*), in [*Quaderni della Ricerca 2021*](https://www.loescher.it/dettaglio/opera/O_3880/57--Affetti-e-legami--Forme-della-comunit--)
