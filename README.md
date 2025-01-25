@@ -2,7 +2,7 @@
 I study **Computer Science and Geography** at Trinity College Dublin and work as a **Geospatial Engineer Intern** at the Office of Public Works.  
 #
 💡 Projects
-* Developing a QField Plugin for Coastal Vegetation Monitoring.
+* Refactoring QField for Coastal Vegetation Monitoring.
 * Working on a large scale project aimed at remodelling in 3D famous portraiture for educational purposes (this is done using UE5/Blender/MD).
 * Developed [ST-Agent](https://github.com/max-romagnoli/System-Telemetry-Agent), a light-weight monitoring tool for virtualised cloud infrastructure.
 * My latest [GIS project](https://github.com/max-romagnoli/Elevation-And-Landcover) assessing the impact of elevation on land cover using ArcGIS and Python.
