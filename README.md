@@ -22,9 +22,9 @@ I am final year **Computer Science and Geography** student at Trinity College Du
 🏢 Stack
 * Python [Django, Flask]
 * PostgreSQL, PostGIS
-* QGIS
+* C++ [Qt, QML, OpenGL]
+* QGIS, ArcGIS Pro
 * Java [SpringBoot]
-* C++ [Qt, OpenGL]
 * JavaScript/CSS [React.js]
 * Blender/UE5/MD
 #
