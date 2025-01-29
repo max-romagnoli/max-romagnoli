@@ -1,5 +1,5 @@
 ### Ciao! I'm *Massimiliano* Romagnoli.
-I study **Computer Science and Geography** at Trinity College Dublin and work as a **Geospatial Engineer Intern** at the Office of Public Works.  
+I am final year **Computer Science and Geography** student at Trinity College Dublin and work as a **Software Engineer Intern** at HUB Ocean.  
 #
 💡 Projects
 * Refactoring QField for Coastal Vegetation Monitoring.
