@@ -3,11 +3,8 @@ I am final year **Computer Science and Geography** student at Trinity College Du
 #
 💡 Projects
 * Refactoring QField for Coastal Vegetation Monitoring.
+* Working for [HUB Ocean](https://github.com/C4IROcean) on the **Ocean Data Platform**.
 * Working on a large scale project aimed at remodelling in 3D famous portraiture for educational purposes (this is done using UE5/Blender/MD).
-* Developed [ST-Agent](https://github.com/max-romagnoli/System-Telemetry-Agent), a light-weight monitoring tool for virtualised cloud infrastructure.
-* My latest [GIS project](https://github.com/max-romagnoli/Elevation-And-Landcover) assessing the impact of elevation on land cover using ArcGIS and Python.
-* Worked on the frontend of a [full-stack application](https://github.com/MaxCunningham19/legal_spellcheck) that provides legal spell check through cognitive services APIs. This is a school project in collaboration with Propylon Ireland.
-* Writing a book-essay on a *new methodology* for human sciences. Stay tuned!
 #
 🔬 Research Interests
 * Software Engineering
