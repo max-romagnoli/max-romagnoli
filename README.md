@@ -4,7 +4,6 @@ I am final year **Computer Science and Geography** student at Trinity College Du
 💡 Projects
 * Refactoring QField for Coastal Vegetation Monitoring.
 * Working for [HUB Ocean](https://github.com/C4IROcean) on the **Ocean Data Platform**.
-* Working on a large scale project aimed at remodelling in 3D famous portraiture for educational purposes (this is done using UE5/Blender/MD).
 #
 🔬 Research Interests
 * Software Engineering
