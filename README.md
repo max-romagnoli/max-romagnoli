@@ -2,7 +2,7 @@
 I am final year **Computer Science and Geography** student at Trinity College Dublin and work as a **Software Engineer Intern** at HUB Ocean.  
 #
 💡 Projects
-* Refactoring QField for Coastal Vegetation Monitoring.
+* Refactoring [QField for Coastal Monitoring](https://github.com/max-romagnoli/QField-Coastal).
 * Working for [HUB Ocean](https://github.com/C4IROcean) on the **Ocean Data Platform**.
 #
 🔬 Research Interests
